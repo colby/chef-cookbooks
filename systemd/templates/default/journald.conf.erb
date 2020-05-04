@@ -1,0 +1,6 @@
+# Chef generated file. Edits will be lost.
+
+[Journal]
+<% node['systemd']['journald']['conf'].each do |k,v| -%>
+<%= k %>=<%= v %>
+<% end %>
