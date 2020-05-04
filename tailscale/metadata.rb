@@ -1,0 +1,5 @@
+name             'tailscale'
+license          ''
+description      'tailscale'
+long_description 'tailscale'
+version          '0.0.1'

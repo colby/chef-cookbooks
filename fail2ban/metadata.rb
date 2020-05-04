@@ -1,0 +1,5 @@
+name             'fail2ban'
+license          ''
+description      'fail2ban'
+long_description 'fail2ban'
+version          '0.0.1'
